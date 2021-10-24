@@ -1,2 +1,3 @@
-# Calculadora_Basica
-Calculadora básica em Javascript para treinar.
+# Basic Calculator
+
+Basic Javascript calculator for training. I did it at college in 2017. 
